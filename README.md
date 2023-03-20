@@ -1,4 +1,4 @@
-# Distributed multi model biometric System
+## Distributed multi model biometric System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
@@ -12,7 +12,7 @@ The face recognition component of the system involves the use of advanced algori
 In conclusion, the integration of autonomous agents with a multi-model concept incorporating various biometric technologies and passport documents is a promising solution to the challenges posed by airport security checkpoints. It will ensure a high level of accuracy, speed, and security while reducing the need for human intervention.
 
 
-More Details:  
+## More Details:  
 https://www.susara.lk/reseach.php  
 http://dl.lib.mrt.ac.lk/handle/123/16112  
 
