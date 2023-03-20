@@ -10,8 +10,8 @@ In conclusion, the integration of autonomous agents with a multi-model concept i
 
 
 More Details:  
-https://www.susara.lk/reseach.php
-http://dl.lib.mrt.ac.lk/handle/123/16112
+https://www.susara.lk/reseach.php  
+http://dl.lib.mrt.ac.lk/handle/123/16112  
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=AWGqZ3s5JqE)
+[![Watch the video]([https://i.imgur.com/vKb2F1B.png](https://www.susara.lk/images/susara_bio_me_MAS.png))](https://www.youtube.com/watch?v=AWGqZ3s5JqE)
 
