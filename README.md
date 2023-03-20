@@ -15,5 +15,8 @@ More Details:
 https://www.susara.lk/reseach.php  
 http://dl.lib.mrt.ac.lk/handle/123/16112  
 
+
+![alt text](https://www.susara.lk/images/susara_bio_me_MAS.png)
+
 [![Watch the video][(https://www.susara.lk/images/susara_bio_me_MAS.png)](https://www.youtube.com/watch?v=AWGqZ3s5JqE)
 
