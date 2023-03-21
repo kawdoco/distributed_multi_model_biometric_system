@@ -32,11 +32,32 @@ The face recognition component of the system involves the use of advanced algori
 In conclusion, the integration of autonomous agents with a multi-model concept incorporating various biometric technologies and passport documents is a promising solution to the challenges posed by airport security checkpoints. It will ensure a high level of accuracy, speed, and security while reducing the need for human intervention.
 
 </p>
-## More Details:  
-https://www.susara.lk/reseach.php  
-http://dl.lib.mrt.ac.lk/handle/123/16112  
 
+## More Details:  
+
+https://www.susara.lk/reseach.php    
+
+http://dl.lib.mrt.ac.lk/handle/123/16112  
+  
 <img src="https://www.susara.lk/images/susara_bio_me_MAS.png" width="100%" alt="bio">
- 
-[![Watch the video][(https://www.susara.lk/images/susara_bio_me_MAS.png)](https://www.youtube.com/watch?v=AWGqZ3s5JqE)
+  
+[![Watch the video] (https://www.youtube.com/watch?v=AWGqZ3s5JqE)
+
+
+## Publications 
+
+ 2022/07	A multi-agent-based enhancement for multimodal biometric system at border control, Array Volume 14, July 2022, 100171 https://doi.org/10.1016/j.array.2022.100171
+   
+2022/01	Border Control by Multi-biometric Identification using Face and Ear images. 2nd International Conference on Image Processing and Robotics (ICIPROB) IEEE 
+  
+2019/09 	Hybrid Approach to Face Recognition System using PCA & LDA in Border Control, 2019 National Information Technology Conference (NITC), Colombo, Sri Lanka, 2019, pp. 9-15, doi: 10.1109/NITC48475.2019.9114426. 
+  
+2017/01	Multi-Agent Approach to Face Recognition in Border Control, The 12th International Research Conference General Sir Kotelawala Defense, Sri Lanka 
+  
+2019/11	Fuzzy Logic-based Approach for Back Analysis of VISA Granting Process, 3rd SLAAI-International Conference on Artificial Intelligence
+  
+2016/11	Border Control by Multi-biometric Identification using Face and Ear images," International. 
+  
+2022/02	Conference on image processing and robotics (ICIPRoB2022) Japan, 2022.
+
 
