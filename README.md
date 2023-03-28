@@ -2,6 +2,14 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
+## Terms of use
+
+Please, see our <a href="https://github.com/kawdoco/distributed_multi_model_biometric_system/blob/main/LICENSE.md">license </a>.
+When (re-)using (part) of this work, you must cite the following publication:
+
+Thenuwara, S.S.; Premachandra, C.; Kawanaka, H. A Multi-Agent Based Enhancement for Multimodal Biometric System at Border Control. Array 2022, 14, 100171.
+
+
 ## How to setup the project in local machine
 
 <p align="justify">
