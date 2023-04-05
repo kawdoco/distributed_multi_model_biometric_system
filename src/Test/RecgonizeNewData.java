@@ -70,7 +70,7 @@
 /* 65 */     return matchFileIndex;
            // return String.valueOf(result.getMatchFileName());
 /*    */   }
-/*    */ }
+
 
 
 /* Location:              C:\Users\Susara\Documents\NetBeansProjects\FaceRecognization_JADE_BASED\Jars\DetectionAndRecgonzionJAR.jar!\Test\RecgonizeNewData.class
