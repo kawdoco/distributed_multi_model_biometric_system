@@ -22,8 +22,6 @@ To be updated.....
 To be updated..............
 </p>
 
-
-
 <p align="justify">
 The reason for initiating this research is that airports operate on very strict schedules, and verifying a person's authorization at security checkpoints can be a challenging task when relying solely on online models. To address this issue, I propose an autonomous agent solution that utilizes a multi-model concept, incorporating facial, fingerprint, and voice biometrics, as well as passport documents, to compare physical appearances at the airport. The use of a multi-model concept will ensure a high level of accuracy in identifying individuals, and the integration of various biometric technologies will provide an additional layer of security. Facial recognition technology can be used to match an individual's face to their passport photo, while fingerprint and voice biometrics can be used to further verify their identity. In combination with passport documents, this system will significantly enhance the overall security of airport checkpoints.</p>
 
